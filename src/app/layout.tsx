@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Slack Clone",
-  description: "clone of the Slack app",
+  description: "Clone of the Slack web application",
 };
 
 export default function RootLayout({
